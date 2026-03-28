@@ -1,0 +1,221 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "about": "L'Association",
+    "community": "Communauté",
+    "events": "Activités",
+    "gallery": "Galerie",
+    "donate": "Soutenir WIBEN",
+    "contact": "Contact",
+    "become_member": "Devenir Membre",
+    "donate_now": "Faire un Don"
+  },
+  "hero": {
+    "title": "WIBEN USA",
+    "subtitle": "Connecter et autonomiser la communauté béninoise au Wisconsin depuis 2019.",
+    "cta_member": "Devenir Membre",
+    "cta_donate": "Faire un Don",
+    "cta_events": "Événements à Venir",
+    "scroll": "Découvrir plus",
+    "founded": "Fondée en 2019 · Madison, Wisconsin",
+    "nonprofit": "Organisation à but non lucratif 501(c)(3)"
+  },
+  "mission": {
+    "title": "Notre Mission",
+    "subtitle": "Construire une communauté béninoise plus forte au Wisconsin",
+    "description": "WIBEN — l'Association de la Communauté Béninoise du Wisconsin — a été fondée en 2019 à Madison, Wisconsin, avec un objectif clair : connecter, soutenir et autonomiser les personnes et familles béninoises vivant à travers le Wisconsin.",
+    "values_title": "Nos Valeurs Fondamentales",
+    "values": {
+      "unity": { "title": "Unité", "desc": "Favoriser la solidarité et les liens entre tous les membres de la communauté béninoise au Wisconsin." },
+      "excellence": { "title": "Excellence", "desc": "Promouvoir la réussite dans l'éducation, la vie professionnelle et l'engagement civique." },
+      "culture": { "title": "Fierté Culturelle", "desc": "Célébrer et préserver le patrimoine, les traditions et l'identité béninois." },
+      "service": { "title": "Service", "desc": "Redonner à travers le bénévolat, l'entraide et le soutien communautaire." }
+    },
+    "stats": {
+      "members": "Membres Actifs",
+      "events": "Événements Organisés",
+      "years": "Années de Service",
+      "cities": "Villes du Wisconsin"
+    }
+  },
+  "membership": {
+    "title": "Rejoignez Notre Communauté",
+    "subtitle": "Faites partie d'une famille grandissante de professionnels, familles et amis béninois au Wisconsin.",
+    "yearly": {
+      "title": "Adhésion Annuelle",
+      "price": "200 $",
+      "period": "/ an",
+      "description": "Accès complet à tous les programmes, événements et ressources de WIBEN pour un an.",
+      "benefits": [
+        "Accès à tous les événements communautaires",
+        "Droit de vote aux assemblées générales",
+        "Accès au réseau et répertoire des membres",
+        "Frais d'inscription aux événements réduits",
+        "Bulletin mensuel de la communauté",
+        "Certificat de membre"
+      ],
+      "cta": "Adhérer Annuellement",
+      "savings": "Économisez 40 $ vs mensuel"
+    },
+    "monthly": {
+      "title": "Adhésion Mensuelle",
+      "price": "20 $",
+      "period": "/ mois",
+      "description": "Adhésion flexible avec tous les avantages, facturée mensuellement.",
+      "benefits": [
+        "Accès à tous les événements communautaires",
+        "Droit de vote aux assemblées générales",
+        "Accès au réseau et répertoire des membres",
+        "Frais d'inscription aux événements réduits",
+        "Bulletin mensuel de la communauté",
+        "Annulable à tout moment"
+      ],
+      "cta": "Adhérer Mensuellement"
+    },
+    "popular": "Meilleure Valeur"
+  },
+  "events": {
+    "title": "Événements à Venir",
+    "subtitle": "Restez connecté aux dernières activités et rassemblements de WIBEN.",
+    "register": "S'inscrire",
+    "free": "Gratuit",
+    "open_price": "Prix Libre",
+    "view_all": "Voir Tous les Événements",
+    "no_events": "Aucun événement à venir pour l'instant. Revenez bientôt !",
+    "past_title": "Événements Passés",
+    "location": "Lieu",
+    "date": "Date",
+    "seats_left": "places restantes",
+    "sold_out": "Complet",
+    "enter_amount": "Entrez votre contribution",
+    "min_amount": "Minimum 1 $"
+  },
+  "gallery": {
+    "title": "Notre Galerie",
+    "subtitle": "Souvenirs de nos rassemblements, célébrations et vie communautaire.",
+    "all": "Tout",
+    "no_photos": "Aucune photo dans cette catégorie pour l'instant.",
+    "view_full": "Voir la Galerie Complète"
+  },
+  "donate": {
+    "title": "Soutenir WIBEN",
+    "subtitle": "Votre générosité nous aide à servir et renforcer la communauté béninoise au Wisconsin.",
+    "impact_title": "Votre Impact",
+    "impact_desc": "Chaque contribution va directement aux programmes qui soutiennent nos membres communautaires.",
+    "stripe_title": "Carte",
+    "paypal_title": "PayPal",
+    "zelle_title": "Zelle",
+    "zelle_desc": "Envoyez votre don via Zelle à :",
+    "zelle_name": "WIBEN Association",
+    "amount_label": "Montant du Don",
+    "name_label": "Votre Nom",
+    "email_label": "Adresse E-mail",
+    "message_label": "Message (optionnel)",
+    "donate_btn": "Faire un Don",
+    "thank_you": "Merci pour votre générosité !",
+    "tax_note": "WIBEN est une organisation à but non lucratif 501(c)(3). Votre don est déductible des impôts."
+  },
+  "about": {
+    "title": "À Propos de WIBEN",
+    "hero_subtitle": "Construire la communauté, préserver la culture, autonomiser les vies — depuis 2019.",
+    "history_title": "Notre Histoire",
+    "history": "L'Association de la Communauté Béninoise du Wisconsin (WIBEN) a été fondée en 2019 par un groupe d'immigrants béninois qui ont reconnu la nécessité d'une organisation formelle pour soutenir leur communauté grandissante au Wisconsin. Commençant avec seulement une poignée de membres à Madison, WIBEN a grandi pour devenir une association dynamique avec des membres dans plusieurs villes du Wisconsin.",
+    "mission_title": "Notre Mission",
+    "mission": "Connecter, soutenir et autonomiser les personnes et familles béninoises au Wisconsin — favorisant un sentiment d'appartenance, de fierté culturelle et de résilience communautaire.",
+    "vision_title": "Notre Vision",
+    "vision": "Une communauté béninoise florissante et unie au Wisconsin, pleinement intégrée à la vie du Wisconsin tout en préservant et célébrant son riche patrimoine culturel.",
+    "board_title": "Notre Direction",
+    "board_subtitle": "Rencontrez les bénévoles dévoués qui guident notre association.",
+    "docs_title": "Documents Officiels",
+    "docs_subtitle": "Documents de transparence et de gouvernance pour nos membres.",
+    "bylaws": "Statuts",
+    "policies": "Politiques",
+    "annual_report": "Rapport Annuel"
+  },
+  "community": {
+    "title": "Notre Communauté",
+    "hero_subtitle": "Un foyer loin de chez soi pour les familles béninoises à travers le Wisconsin.",
+    "membership_title": "Demande d'Adhésion",
+    "membership_subtitle": "Rejoignez la famille WIBEN et faites partie de quelque chose de significatif.",
+    "form": {
+      "first_name": "Prénom",
+      "last_name": "Nom",
+      "email": "Adresse E-mail",
+      "phone": "Numéro de Téléphone",
+      "city": "Ville de Résidence",
+      "message": "Message (optionnel)",
+      "message_placeholder": "Parlez-nous un peu de vous (optionnel)",
+      "submit": "Soumettre la Demande",
+      "submitting": "Envoi en cours...",
+      "success_title": "Demande Reçue !",
+      "success_desc": "Merci d'avoir postulé à WIBEN. Nous examinerons votre demande et nous vous contacterons sous peu.",
+      "error": "Une erreur s'est produite. Veuillez réessayer."
+    },
+    "testimonials_title": "Témoignages des Membres",
+    "benefits_title": "Avantages des Membres"
+  },
+  "contact": {
+    "title": "Contactez-Nous",
+    "subtitle": "Des questions ? Nous serions ravis de vous entendre.",
+    "form": {
+      "name": "Nom Complet",
+      "email": "Adresse E-mail",
+      "subject": "Sujet",
+      "message": "Message",
+      "submit": "Envoyer le Message",
+      "submitting": "Envoi en cours...",
+      "success": "Message envoyé ! Nous vous répondrons bientôt.",
+      "error": "Échec de l'envoi. Veuillez réessayer."
+    },
+    "info": {
+      "email": "E-mail",
+      "address": "Adresse",
+      "address_val": "Madison, Wisconsin, États-Unis",
+      "social": "Suivez-Nous"
+    }
+  },
+  "footer": {
+    "tagline": "Connecter et autonomiser la communauté béninoise au Wisconsin depuis 2019.",
+    "quick_links": "Liens Rapides",
+    "connect": "Connectez-Vous",
+    "newsletter": "Bulletin",
+    "newsletter_placeholder": "Votre adresse e-mail",
+    "newsletter_btn": "S'abonner",
+    "rights": "Tous droits réservés.",
+    "privacy": "Politique de Confidentialité",
+    "terms": "Conditions d'Utilisation",
+    "nonprofit": "WIBEN est une organisation à but non lucratif 501(c)(3) enregistrée."
+  },
+  "admin": {
+    "title": "Tableau de Bord Admin",
+    "applications": "Demandes",
+    "events": "Événements",
+    "donations": "Dons",
+    "gallery": "Galerie",
+    "posts": "Actualités",
+    "approve": "Approuver",
+    "reject": "Rejeter",
+    "pending": "En Attente",
+    "approved": "Approuvé",
+    "rejected": "Rejeté",
+    "save": "Enregistrer",
+    "cancel": "Annuler",
+    "delete": "Supprimer",
+    "edit": "Modifier",
+    "add": "Ajouter",
+    "publish": "Publier",
+    "unpublish": "Dépublier",
+    "upload_image": "Télécharger une Image",
+    "folders": "Dossiers",
+    "add_folder": "Ajouter un Dossier",
+    "open_price": "Prix Libre"
+  },
+  "common": {
+    "loading": "Chargement...",
+    "back": "Retour",
+    "learn_more": "En Savoir Plus",
+    "close": "Fermer",
+    "read_more": "Lire la Suite",
+    "view_all": "Voir Tout"
+  }
+}

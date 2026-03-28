@@ -1,0 +1,221 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "The Association",
+    "community": "Community",
+    "events": "Activities",
+    "gallery": "Gallery",
+    "donate": "Support WIBEN",
+    "contact": "Contact",
+    "become_member": "Become a Member",
+    "donate_now": "Donate"
+  },
+  "hero": {
+    "title": "WIBEN USA",
+    "subtitle": "Connecting and empowering the Beninese community in Wisconsin since 2019.",
+    "cta_member": "Become a Member",
+    "cta_donate": "Donate",
+    "cta_events": "Upcoming Events",
+    "scroll": "Discover more",
+    "founded": "Founded 2019 · Madison, Wisconsin",
+    "nonprofit": "501(c)(3) Nonprofit"
+  },
+  "mission": {
+    "title": "Our Mission",
+    "subtitle": "Building a stronger Beninese community in Wisconsin",
+    "description": "WIBEN — the Wisconsin Beninese Community Association — was founded in 2019 in Madison, Wisconsin, with a clear purpose: to connect, support, and empower Beninese individuals and families living across Wisconsin.",
+    "values_title": "Our Core Values",
+    "values": {
+      "unity": { "title": "Unity", "desc": "Fostering solidarity and connection among all Beninese community members in Wisconsin." },
+      "excellence": { "title": "Excellence", "desc": "Promoting achievement in education, professional life, and civic engagement." },
+      "culture": { "title": "Cultural Pride", "desc": "Celebrating and preserving Beninese heritage, traditions, and identity." },
+      "service": { "title": "Service", "desc": "Giving back through volunteering, mutual aid, and community support." }
+    },
+    "stats": {
+      "members": "Active Members",
+      "events": "Events Organized",
+      "years": "Years of Service",
+      "cities": "Wisconsin Cities"
+    }
+  },
+  "membership": {
+    "title": "Join Our Community",
+    "subtitle": "Become part of a growing family of Beninese professionals, families, and friends in Wisconsin.",
+    "yearly": {
+      "title": "Annual Membership",
+      "price": "$200",
+      "period": "/ year",
+      "description": "Full access to all WIBEN programs, events, and resources for one year.",
+      "benefits": [
+        "Access to all community events",
+        "Voting rights in general assemblies",
+        "Member network & directory access",
+        "Discounted event registration fees",
+        "Monthly community newsletter",
+        "Certificate of membership"
+      ],
+      "cta": "Join Annually",
+      "savings": "Save $40 vs monthly"
+    },
+    "monthly": {
+      "title": "Monthly Membership",
+      "price": "$20",
+      "period": "/ month",
+      "description": "Flexible membership with full benefits, billed monthly.",
+      "benefits": [
+        "Access to all community events",
+        "Voting rights in general assemblies",
+        "Member network & directory access",
+        "Discounted event registration fees",
+        "Monthly community newsletter",
+        "Cancel anytime"
+      ],
+      "cta": "Join Monthly"
+    },
+    "popular": "Best Value"
+  },
+  "events": {
+    "title": "Upcoming Events",
+    "subtitle": "Stay connected with the latest WIBEN activities and gatherings.",
+    "register": "Register Now",
+    "free": "Free",
+    "open_price": "Pay What You Can",
+    "view_all": "View All Events",
+    "no_events": "No upcoming events at this time. Check back soon!",
+    "past_title": "Past Events",
+    "location": "Location",
+    "date": "Date",
+    "seats_left": "spots left",
+    "sold_out": "Sold Out",
+    "enter_amount": "Enter your contribution",
+    "min_amount": "Minimum $1"
+  },
+  "gallery": {
+    "title": "Our Gallery",
+    "subtitle": "Memories from our gatherings, celebrations, and community life.",
+    "all": "All",
+    "no_photos": "No photos in this category yet.",
+    "view_full": "View Full Gallery"
+  },
+  "donate": {
+    "title": "Support WIBEN",
+    "subtitle": "Your generosity helps us serve and strengthen the Beninese community in Wisconsin.",
+    "impact_title": "Your Impact",
+    "impact_desc": "Every contribution goes directly to programs that support our community members.",
+    "stripe_title": "Card",
+    "paypal_title": "PayPal",
+    "zelle_title": "Zelle",
+    "zelle_desc": "Send your donation via Zelle to:",
+    "zelle_name": "WIBEN Association",
+    "amount_label": "Donation Amount",
+    "name_label": "Your Name",
+    "email_label": "Email Address",
+    "message_label": "Message (optional)",
+    "donate_btn": "Donate",
+    "thank_you": "Thank you for your generosity!",
+    "tax_note": "WIBEN is a 501(c)(3) nonprofit. Your donation is tax-deductible."
+  },
+  "about": {
+    "title": "About WIBEN",
+    "hero_subtitle": "Building community, preserving culture, empowering lives — since 2019.",
+    "history_title": "Our History",
+    "history": "The Wisconsin Beninese Community Association (WIBEN) was founded in 2019 by a group of Beninese immigrants who recognized the need for a formal organization to support their growing community in Wisconsin. Starting with just a handful of members in Madison, WIBEN has grown into a vibrant association with members across multiple Wisconsin cities.",
+    "mission_title": "Our Mission",
+    "mission": "To connect, support, and empower Beninese individuals and families in Wisconsin — fostering a sense of belonging, cultural pride, and community resilience.",
+    "vision_title": "Our Vision",
+    "vision": "A thriving, unified Beninese community in Wisconsin, fully integrated into Wisconsin life while preserving and celebrating its rich cultural heritage.",
+    "board_title": "Our Leadership",
+    "board_subtitle": "Meet the dedicated volunteers who guide our association.",
+    "docs_title": "Official Documents",
+    "docs_subtitle": "Transparency and governance documents for our members.",
+    "bylaws": "Bylaws",
+    "policies": "Policies",
+    "annual_report": "Annual Report"
+  },
+  "community": {
+    "title": "Our Community",
+    "hero_subtitle": "A home away from home for Beninese families across Wisconsin.",
+    "membership_title": "Apply for Membership",
+    "membership_subtitle": "Join the WIBEN family and be part of something meaningful.",
+    "form": {
+      "first_name": "First Name",
+      "last_name": "Last Name",
+      "email": "Email Address",
+      "phone": "Phone Number",
+      "city": "City of Residence",
+      "message": "Message (optional)",
+      "message_placeholder": "Tell us a little about yourself (optional)",
+      "submit": "Submit Application",
+      "submitting": "Submitting...",
+      "success_title": "Application Received!",
+      "success_desc": "Thank you for applying to WIBEN. We will review your application and be in touch shortly.",
+      "error": "Something went wrong. Please try again."
+    },
+    "testimonials_title": "Member Stories",
+    "benefits_title": "Member Benefits"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Have questions? We would love to hear from you.",
+    "form": {
+      "name": "Full Name",
+      "email": "Email Address",
+      "subject": "Subject",
+      "message": "Message",
+      "submit": "Send Message",
+      "submitting": "Sending...",
+      "success": "Message sent! We will get back to you soon.",
+      "error": "Failed to send. Please try again."
+    },
+    "info": {
+      "email": "Email",
+      "address": "Address",
+      "address_val": "Madison, Wisconsin, USA",
+      "social": "Follow Us"
+    }
+  },
+  "footer": {
+    "tagline": "Connecting and empowering the Beninese community in Wisconsin since 2019.",
+    "quick_links": "Quick Links",
+    "connect": "Connect",
+    "newsletter": "Newsletter",
+    "newsletter_placeholder": "Your email address",
+    "newsletter_btn": "Subscribe",
+    "rights": "All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Use",
+    "nonprofit": "WIBEN is a registered 501(c)(3) nonprofit organization."
+  },
+  "admin": {
+    "title": "Admin Dashboard",
+    "applications": "Applications",
+    "events": "Events",
+    "donations": "Donations",
+    "gallery": "Gallery",
+    "posts": "News",
+    "approve": "Approve",
+    "reject": "Reject",
+    "pending": "Pending",
+    "approved": "Approved",
+    "rejected": "Rejected",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "add": "Add New",
+    "publish": "Publish",
+    "unpublish": "Unpublish",
+    "upload_image": "Upload Image",
+    "folders": "Folders",
+    "add_folder": "Add Folder",
+    "open_price": "Pay What You Can"
+  },
+  "common": {
+    "loading": "Loading...",
+    "back": "Back",
+    "learn_more": "Learn More",
+    "close": "Close",
+    "read_more": "Read More",
+    "view_all": "View All"
+  }
+}
